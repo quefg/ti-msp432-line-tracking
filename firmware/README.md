@@ -27,4 +27,4 @@ No build or flash was performed for this source selection. Existing comments, re
 
 ## Attribution
 
-The files use Jonathan Valvano's MSP432 teaching framework and include original Simplified BSD notices. Course exercise implementations appear alongside framework code; retaining a file does not imply that the entire file or framework is solely authored by this project's student. See [third-party notices](../THIRD_PARTY_NOTICES.md).
+The files use Jonathan Valvano's MSP432 teaching framework and include original Simplified BSD notices. Course exercise implementations appear alongside framework code; retaining a file does not imply that the entire file or framework is solely authored by this project's student.
