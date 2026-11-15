@@ -1,0 +1,8 @@
+.DS_Store
+Debug/
+Release/
+*.obj
+*.out
+*.map
+*.d
+*.log
