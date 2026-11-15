@@ -1,0 +1,61 @@
+{
+  "description": "Selected historical coursework source snapshots; copied without code changes. Paths are relative to the original coursework project.",
+  "files": [
+    {
+      "file": "Lab3_TimerCompare_Motor/Lab3_Timersmain.c",
+      "sha256": "4367255f9dd1872c3af0eced4b96628f037f6f6eba33f52bc945ebdc697d1d61"
+    },
+    {
+      "file": "Lab3_Bump_Reflectance_Systick/Lab3_Sensorsmain.c",
+      "sha256": "3f8bd98693273188a6ce4a2f7394e96608a434c0c31f5e1cd69518f2e24caa03"
+    },
+    {
+      "file": "inc/Reflectance.c",
+      "sha256": "58ed022ad526a6014546508ab9a6f14ec1fe178115cd5ed0471c93fc38a68c07"
+    },
+    {
+      "file": "inc/Reflectance.h",
+      "sha256": "a90d9977b4d302cb0076b10acce2204d3c89f78c54909cc74aae02c73fd4dce5"
+    },
+    {
+      "file": "inc/Motor.c",
+      "sha256": "b170fd4d30c0a9ed5ba71b13522fc5766d4734ef033bf52c2a8cacb4f1f6a18c"
+    },
+    {
+      "file": "inc/Motor.h",
+      "sha256": "45c5bbdf7a4aa3d1ce6044b4c3fafe055568b27122f32f20bb7eccc50f5cea5a"
+    },
+    {
+      "file": "inc/PWM.c",
+      "sha256": "09a4dfc06d767d393d1bfb05f6b13089e6084f57c37d05104a71ff8524d33f5d"
+    },
+    {
+      "file": "inc/PWM.h",
+      "sha256": "3318920cd14d6e904e5d082013bd57d52091648fc576ccf5f476f637faf1e477"
+    },
+    {
+      "file": "inc/Bump.c",
+      "sha256": "676c980c1e20e137ccb0cc55f46617f178e324a65c0f1edd60390a160375e284"
+    },
+    {
+      "file": "inc/Bump.h",
+      "sha256": "fbee3a95556d7e5917a9f0eef1d472ecc491aae78e4fe7c62eb7df7f2293d1f6"
+    },
+    {
+      "file": "inc/TimerA1.c",
+      "sha256": "e208532e850884586e0e835b86e161ee8a35167c433d998f30a83d8259c52d60"
+    },
+    {
+      "file": "inc/TimerA1.h",
+      "sha256": "876971667c2665e8bd7cc31f65e8550e3bd8f751e1a13ecc7b285e1c396254ae"
+    },
+    {
+      "file": "inc/SysTickInts.c",
+      "sha256": "6753b50e41c52a396b0302c1fd297641912a8bb123af4d359f2d0d8c9be7b5ac"
+    },
+    {
+      "file": "inc/SysTickInts.h",
+      "sha256": "b612aea527801deeab32355fd35d2ac1f621ff97a964da7a2f1ac0873f70951b"
+    }
+  ]
+}
