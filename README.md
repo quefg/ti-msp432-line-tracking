@@ -57,4 +57,4 @@ The files here are selected historical source snapshots for review. They are not
 
 ## Attribution
 
-Developed in an SC2107 coursework context using the MSP432/RSLK teaching framework associated with Jonathan Valvano's embedded-systems materials. Original source headers and the Simplified BSD terms are preserved. See [third-party notices](THIRD_PARTY_NOTICES.md).
+Developed in an SC2107 coursework context using the MSP432/RSLK teaching framework associated with Jonathan Valvano's embedded-systems materials. Original source headers and the Simplified BSD terms are preserved.
